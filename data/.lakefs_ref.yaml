@@ -1,0 +1,3 @@
+src: lakefs://mfdp-fin-fraud-detection-data/main/
+at_head: dafd94f8578c445568c9368662f9fba46af692daa2baf5a59dbd74ef53e26bcf
+active_operation: ""

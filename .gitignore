@@ -1,2 +1,6 @@
 .DS_Store
-data/
+
+# ignored by lakectl local
+data/*
+!data/.lakefs_ref.yaml
+# End ignored by lakectl local
