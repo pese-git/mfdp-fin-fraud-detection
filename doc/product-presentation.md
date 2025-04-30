@@ -122,4 +122,4 @@
 ---
 
 
-[Презентация (слайды)](https://docs.google.com/presentation/d/1aVIMna5RpPBu4r07dqlUMSL8nLsmAdBD/edit?usp=sharing&ouid=107449541005844775418&rtpof=true&sd=true)
+[Презентация (слайды)](https://docs.google.com/presentation/d/12uvoknHJ716fijD3Q6Eyw7y3Te7aWi8QJm-OJtMR2Ho/edit?usp=sharing)
