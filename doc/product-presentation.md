@@ -64,10 +64,10 @@
 
 - Отраслевые отчёты:
 
-    -  **[Forrester Wave™: Enterprise Fraud Management (EFM), Q3 2021]((https://ru.scribd.com/document/579035107/Forrester-Wave-EFM-Q32021))**
+    -  **[Forrester Wave™: Enterprise Fraud Management (EFM), Q3 2021](https://ru.scribd.com/document/579035107/Forrester-Wave-EFM-Q32021)**
 
         В отчёте указано: "Best-in-class solutions achieve precision in the 90–98% range while reducing false positives by over 70%."
-    - **[Gartner Market Guide for Online Fraud Detection (2020)]( [https://www.gartner.com/en/documents/3993665](https://www.gartner.com/en/documents/3993665))**
+    - **[Gartner Market Guide for Online Fraud Detection (2020)](https://www.gartner.com/en/documents/3993665)**
 
         В документе указано: "Precision above 95% and FP rate under 0.5% are standard in top-performing platforms."
 - Информация от вендоров:
