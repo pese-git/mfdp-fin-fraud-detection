@@ -27,7 +27,7 @@ marp: true
 ## Рынок
 
 - Объем глобального рынка антифрод-решений: **[$30+ млрд](https://market.us/report/anti-fraud-solutions-market)**
-- [CAGR: 18% до 2030](https://www.custommarketinsights.com/report/fraud-detection-and-prevention-market)
+- [CAGR (среднегодовой темп роста): 18% до 2030](https://www.custommarketinsights.com/report/fraud-detection-and-prevention-market)
 - Объем СНГ рынка антифрод-решений: **[$250–300 млн](https://my.idc.com/getdoc.jsp?containerId=EUR148523023)**
 - Ожидаемый рост рынка СНГ — 15–20% в год.
 - Конкуренты: [SAS](https://www.sas.com/en_us/home.html), [FICO](https://www.fico.com/en/products/fico-falcon-fraud-manager), [Feedzai](https://www.feedzai.com/)
@@ -73,7 +73,7 @@ marp: true
 
 ## Монетизация
 
-- **Модель монетизации — подписка (SaaS) или лицензия для крупных клиентов**
+- **Модель монетизации — подписка (SaaS) или лицензия для клиентов**
   - Ежемесячная или ежегодная оплата за доступ к сервису, либо покупка корпоративной лицензию для интеграции в собственную инфраструктуру.
 - **Кто платит:**  
   - Банки, финтех-компании, страховые и платёжные сервисы.
