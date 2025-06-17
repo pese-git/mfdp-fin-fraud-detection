@@ -53,7 +53,9 @@ marp: true
 ---
 ## Демо  
 
-[Видео-демонстрация работы сервиса](https://disk.yandex.com/d/P97VVou1wegM4g)  
+[Видео-демонстрация работы сервиса](https://disk.yandex.com/d/P97VVou1wegM4g)
+
+Online Демо сервис: [https://antifraud.openidealab.com](https://antifraud.openidealab.com)  
 
 ---
 ## Преимущества  
@@ -89,6 +91,7 @@ marp: true
 - Увеличивает доверие пользователей
 
 **Планы**:
+- Качество модели
 - Модуль explainable AI *(модуль объяснения)*
 - Модуль самообучения
 - Дашборды и real-time мониторинг
